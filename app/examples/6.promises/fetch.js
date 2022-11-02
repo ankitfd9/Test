@@ -17,6 +17,5 @@ const getRandomUsers = n => {
     })
   });
 }
-//fdjdfhkjskjsdfkjdsf
 
 getRandomUsers(100);
